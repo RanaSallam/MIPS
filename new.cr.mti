@@ -1,0 +1,106 @@
+C:/Users/Ahmed/Desktop/Mips-project/mips.v {1 {vlog -work work -stats=none C:/Users/Ahmed/Desktop/Mips-project/mips.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module Alu
+-- Compiling module Alu_control
+-- Compiling module control
+-- Compiling module data_mem
+-- Compiling module Ins_Mem
+-- Compiling module Mux5
+-- Compiling module Mux32
+-- Compiling module Mux4x1
+-- Compiling module Mux4x1b
+-- Compiling module PC
+-- Compiling module reg_file
+-- Compiling module shift_left
+-- Compiling module sign_ext
+-- Compiling module adder
+-- Compiling module mips
+
+Top level modules:
+	Mux5
+	mips
+
+} {} {}} C:/Users/Ahmed/Desktop/Mips-project/InsMem.v {1 {vlog -work work -stats=none C:/Users/Ahmed/Desktop/Mips-project/InsMem.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module Ins_Mem
+
+Top level modules:
+	Ins_Mem
+
+} {} {}} C:/Users/Ahmed/Desktop/Mips-project/DataMem.v {1 {vlog -work work -stats=none C:/Users/Ahmed/Desktop/Mips-project/DataMem.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module data_mem
+
+Top level modules:
+	data_mem
+
+} {} {}} C:/Users/Ahmed/Desktop/Mips-project/Control.v {1 {vlog -work work -stats=none C:/Users/Ahmed/Desktop/Mips-project/Control.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module control
+
+Top level modules:
+	control
+
+} {} {}} C:/Users/Ahmed/Desktop/Mips-project/Mux.v {1 {vlog -work work -stats=none C:/Users/Ahmed/Desktop/Mips-project/Mux.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module Mux5
+-- Compiling module Mux32
+-- Compiling module Mux4x1
+-- Compiling module Mux4x1b
+
+Top level modules:
+	Mux5
+	Mux32
+	Mux4x1
+	Mux4x1b
+
+} {} {}} C:/Users/Ahmed/Desktop/Mips-project/Alu.v {1 {vlog -work work -stats=none C:/Users/Ahmed/Desktop/Mips-project/Alu.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module Alu
+
+Top level modules:
+	Alu
+
+} {} {}} C:/Users/Ahmed/Desktop/Mips-project/PC.v {1 {vlog -work work -stats=none C:/Users/Ahmed/Desktop/Mips-project/PC.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Users/Ahmed/Desktop/Mips-project/AluControl.v {1 {vlog -work work -stats=none C:/Users/Ahmed/Desktop/Mips-project/AluControl.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module Alu_control
+
+Top level modules:
+	Alu_control
+
+} {} {}} C:/Users/Ahmed/Desktop/Mips-project/RegFile.v {1 {vlog -work work -stats=none C:/Users/Ahmed/Desktop/Mips-project/RegFile.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} C:/Users/Ahmed/Desktop/Mips-project/adder.v {1 {vlog -work work -stats=none C:/Users/Ahmed/Desktop/Mips-project/adder.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} C:/Users/Ahmed/Desktop/Mips-project/ShiftLeft.v {1 {vlog -work work -stats=none C:/Users/Ahmed/Desktop/Mips-project/ShiftLeft.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module shift_left
+
+Top level modules:
+	shift_left
+
+} {} {}} C:/Users/Ahmed/Desktop/Mips-project/SignExt.v {1 {vlog -work work -stats=none C:/Users/Ahmed/Desktop/Mips-project/SignExt.v
+Model Technology ModelSim PE Student Edition vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module sign_ext
+
+Top level modules:
+	sign_ext
+
+} {} {}}
